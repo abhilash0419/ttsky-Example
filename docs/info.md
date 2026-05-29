@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The 7 bit ALU performs arithmetic and logical operationson two 7 bit input operands
+
 
 ## How to test
 
-Explain how to use your project
+Compile the ALU module and the testbench.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+FPGA board
